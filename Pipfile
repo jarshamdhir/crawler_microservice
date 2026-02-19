@@ -7,6 +7,10 @@ name = "pypi"
 python-dotenv = "*"
 bs4 = "*"
 flask = "*"
+requests = "*"
+urllib3 = "*"
+lxml = "*"
+langdetect = "*"
 
 [dev-packages]
 
